@@ -1,0 +1,2 @@
+-Will need an entry function and an exit function for every state and inputs and transitions
+-
